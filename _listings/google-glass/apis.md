@@ -7,10 +7,10 @@ description: Glass is fundamentally different than existing mobile platforms in 
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
   Shot 2017-03-16 at 11.10.43 PM.png
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Google Glass
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-glass/master/_listings/google-glass/apis.md
 specificationVersion: "0.14"
 apis:
